@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Sivasai 👋</h1>
 <h3 align="center">Senior Backend Engineer · Python Whisperer · Distributed Systems Architect</h3>
-<p align="center"><i>"I don't always test my code, but when I do, I do it in production." — not me, I promise. I write tests. Many tests.</i></p>
+<p align="center"><i>"I don't always test my code, but when I do, I do it in production." -> not me, I promise. I write tests. Many tests.</i></p>
 
 ---
 
 ## 🧭 Who am I?
 
-11+ years of turning complex backend chaos into clean, scalable systems — across **fintech**, **telecom**, and **enterprise** domains. I specialize in Python-based distributed architectures, FastAPI microservices, data pipelines, and cloud deployments that actually stay up.
+11+ years of turning complex backend chaos into clean, scalable systems -> across **fintech**, **telecom**, and **enterprise** domains. I specialize in Python-based distributed architectures, FastAPI microservices, data pipelines, and cloud deployments that actually stay up.
 
 Currently **Senior Engineer / Technology Architect** at **Cognizant** (Client: BlueOwl), where I'm restructuring backends, wrangling Snowflake with Snowpark, and making LLMs observable before they go rogue.
 
